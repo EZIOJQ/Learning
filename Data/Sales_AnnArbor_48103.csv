@@ -1,0 +1,501 @@
+address,bathrooms,bedrooms,built,lot,saledate,saleprice,squarefeet
+"603 Sunset Rd, Ann Arbor, MI Real Estate",2,3,1955,10498,20140908,375000,1749
+"1116 Fountain St, Ann Arbor, MI Real Estate",2,4,1949,27007.2,20140905,469900,1910
+"3277 Chamberlain Cir, Ann Arbor, MI Real Estate",3,3,2002,13939.2,20140905,315000,1401
+"3049 Appleridge Dr, Ann Arbor, MI Real Estate",2.5,4,1996,10454,20140904,380000,2540
+"2644 Pamela Ave, Ann Arbor, MI Real Estate",1,3,1961,7144,20140904,215000,1050
+"2889 Walnut Ridge Dr, Ann Arbor, MI Real Estate",4,4,2005,21780,20140904,790000,3972
+"1336 Nottington Ct, Ann Arbor, MI Real Estate",3,3,2002,,20140904,332350,1521
+"344 Sedgewood Ln # 14, Ann Arbor, MI Real Estate",,,,6534,20140904,345000,
+"545 Allison Dr, Ann Arbor, MI Real Estate",2,2,,12632.4,20140904,159900,1400
+"2699 Cook Creek Dr, Ann Arbor, MI Real Estate",3,4,1999,10454,20140904,320000,2072
+"229 Crest St, Ann Arbor, MI Real Estate",1,3,1922,5662,20140904,371175,1144
+"1215 Arborview Blvd, Ann Arbor, MI Real Estate",3,4,1946,7666,20140903,420000,1528
+"2314 Eton Ct, Ann Arbor, MI Real Estate",2,3,1969,11761.2,20140903,264900,2036
+"6900 Park Rd, Ann Arbor, MI Real Estate",2.5,3,1990,108900,20140903,290000,1960
+"2468 Centennial Ln, Ann Arbor, MI Real Estate",2,3,1984,336283.2,20140829,410000,2254
+"1739 Timber Trl, Ann Arbor, MI Real Estate",3.5,5,2001,7840,20140829,540000,3223
+"514 Burswood Ct, Ann Arbor, MI Real Estate",3,4,1998,21780,20140829,480000,2932
+"4432 Corey Cir, Ann Arbor, MI Real Estate",4,4,2000,22215.6,20140829,495000,3379
+"1720 Enclave Ln, Ann Arbor, MI Real Estate",3,4,2009,7405,20140829,315000,2146
+"5909 Villa France Ave, Ann Arbor, MI Real Estate",3,3,2000,10018,20140829,350000,2668
+"1700 Arbordale St, Ann Arbor, MI Real Estate",2,3,1957,7492,20140828,267000,1300
+"8254 Waters Rd, Ann Arbor, MI Real Estate",2,4,1996,139392,20140827,359000,1996
+"2972 Signature Blvd, Ann Arbor, MI Real Estate",2,2,2003,,20140827,210000,1473
+"805 Patricia Ave, Ann Arbor, MI Real Estate",2,4,1961,10018,20140827,285000,1748
+"2484 Dundee Dr, Ann Arbor, MI Real Estate",2.5,4,1976,8581,20140827,315000,2052
+"603 Sunset Rd, Ann Arbor, MI Real Estate",2,3,1955,10498,20140908,375000,1749
+"3277 Chamberlain Cir, Ann Arbor, MI Real Estate",3,3,2002,13939.2,20140905,315000,1401
+"1116 Fountain St, Ann Arbor, MI Real Estate",2,4,1949,27007.2,20140905,469900,1910
+"3049 Appleridge Dr, Ann Arbor, MI Real Estate",2.5,4,1996,10454,20140904,380000,2540
+"229 Crest St, Ann Arbor, MI Real Estate",1,3,1922,5662,20140904,371175,1144
+"344 Sedgewood Ln # 14, Ann Arbor, MI Real Estate",,,,6534,20140904,345000,
+"545 Allison Dr, Ann Arbor, MI Real Estate",2,2,,12632.4,20140904,159900,1400
+"2889 Walnut Ridge Dr, Ann Arbor, MI Real Estate",4,4,2005,21780,20140904,790000,3972
+"2699 Cook Creek Dr, Ann Arbor, MI Real Estate",3,4,1999,10454,20140904,320000,2072
+"2644 Pamela Ave, Ann Arbor, MI Real Estate",1,3,1961,7144,20140904,215000,1050
+"1336 Nottington Ct, Ann Arbor, MI Real Estate",3,3,2002,,20140904,332350,1521
+"2314 Eton Ct, Ann Arbor, MI Real Estate",2,3,1969,11761.2,20140903,264900,2036
+"6900 Park Rd, Ann Arbor, MI Real Estate",2.5,3,1990,108900,20140903,290000,1960
+"1215 Arborview Blvd, Ann Arbor, MI Real Estate",3,4,1946,7666,20140903,420000,1528
+"514 Burswood Ct, Ann Arbor, MI Real Estate",3,4,1998,21780,20140829,480000,2932
+"5909 Villa France Ave, Ann Arbor, MI Real Estate",3,3,2000,10018,20140829,350000,2668
+"1739 Timber Trl, Ann Arbor, MI Real Estate",3.5,5,2001,7840,20140829,540000,3223
+"4432 Corey Cir, Ann Arbor, MI Real Estate",4,4,2000,22215.6,20140829,495000,3379
+"1720 Enclave Ln, Ann Arbor, MI Real Estate",3,4,2009,7405,20140829,315000,2146
+"2468 Centennial Ln, Ann Arbor, MI Real Estate",2,3,1984,336283.2,20140829,410000,2254
+"1700 Arbordale St, Ann Arbor, MI Real Estate",2,3,1957,7492,20140828,267000,1300
+"8254 Waters Rd, Ann Arbor, MI Real Estate",2,4,1996,139392,20140827,359000,1996
+"2972 Signature Blvd, Ann Arbor, MI Real Estate",2,2,2003,,20140827,210000,1473
+"2484 Dundee Dr, Ann Arbor, MI Real Estate",2.5,4,1976,8581,20140827,315000,2052
+"805 Patricia Ave, Ann Arbor, MI Real Estate",2,4,1961,10018,20140827,285000,1748
+"2124 Runnymede Blvd, Ann Arbor, MI Real Estate",2,3,1959,11761.2,20140827,287000,1536
+"1265 S Maple Rd APT 206, Ann Arbor, MI Real Estate",1,1,1972,,20140826,80000,927
+"1505 Westfield Ave, Ann Arbor, MI Real Estate",1,3,1954,7579,20140826,230000,988
+"1601 Arbordale St, Ann Arbor, MI Real Estate",2,4,1953,10105,20140826,227000,1640
+"1719 Waltham Dr, Ann Arbor, MI Real Estate",2.5,3,1962,9104,20140826,293000,2004
+"1106 W Washington St, Ann Arbor, MI Real Estate",1,3,1910,3354,20140826,311000,1069
+"2229 Faye Dr, Ann Arbor, MI Real Estate",2,3,1962,7405,20140826,204225,988
+"2240 Miller Ave, Ann Arbor, MI Real Estate",1.5,3,1978,10454,20140826,314000,1358
+"1345 Arella Blvd, Ann Arbor, MI Real Estate",1,2,1955,6708,20140825,275000,1027
+"2315 S Circle Dr, Ann Arbor, MI Real Estate",1,3,1959,6969,20140825,172900,1217
+"1736 W Stadium Blvd, Ann Arbor, MI Real Estate",2,3,1953,8276,20140825,201000,912
+"2330 Churchill Dr, Ann Arbor, MI Real Estate",1.5,3,1974,14810.4,20140825,270000,1684
+"133 W Oakbrook Dr, Ann Arbor, MI Real Estate",2.5,2,2005,,20140825,234900,1250
+"2044 Liberty Hts, Ann Arbor, MI Real Estate",3.5,3,2014,,20140822,348750,1747
+"2104 Charlton St, Ann Arbor, MI Real Estate",1,2,1951,8581,20140822,221000,960
+"444 Evergreen Dr, Ann Arbor, MI Real Estate",1,3,1965,8276,20140822,226500,988
+"4625 W Loch Alpine Dr, Ann Arbor, MI Real Estate",3,4,1997,,20140821,279000,2400
+"1005 W Washington St, Ann Arbor, MI Real Estate",2,3,1930,3354,20140820,350000,1632
+"478 Liberty Pointe Dr, Ann Arbor, MI Real Estate",3,3,1993,,20140820,301000,2044
+"560 Little Lake Dr UNIT 7, Ann Arbor, MI Real Estate",2,3,2006,,20140820,229000,1412
+"2755 Holyoke Ln, Ann Arbor, MI Real Estate",3.5,4,1985,20473.2,20140820,452500,2366
+"7425 Strieter Ct, Ann Arbor, MI Real Estate",2,3,2007,194713.2,20140820,342000,1779
+"2120 Liberty Hts, Ann Arbor, MI Real Estate",2.5,3,2014,,20140820,328000,1779
+"434 3rd St, Ann Arbor, MI Real Estate",1,2,1890,1306,20140819,208000,833
+"1513 Marian Ave, Ann Arbor, MI Real Estate",2,3,1956,7405,20140819,205000,1132
+"1290 Patricia Ave, Ann Arbor, MI Real Estate",3,2,1989,,20140819,187000,1420
+"434 3rd St, Ann Arbor, MI Real Estate",1,2,1890,1306,20140819,208000,833
+"1049 Bluestem Ln, Ann Arbor, MI Real Estate",3,2,2000,,20140819,157500,1158
+"1513 Marian Ave, Ann Arbor, MI Real Estate",2,3,1956,7405,20140819,205000,1132
+"5575 Villa France Ave, Ann Arbor, MI Real Estate",4,4,2001,,20140818,435000,3030
+"1265 S Maple Rd, Ann Arbor, MI Real Estate",2,2,1968,,20140818,80000,1173
+"315 2nd St APT 315, Ann Arbor, MI Real Estate",1.5,,2005,,20140814,425000,970
+"2472 Newbury Ct, Ann Arbor, MI Real Estate",2.5,4,1971,10410,20140814,366200,2052
+"1575 Miller Ave, Ann Arbor, MI Real Estate",2,5,1930,22651.2,20140814,365000,1799
+"1139 Joyce Ln, Ann Arbor, MI Real Estate",2,2,2002,,20140814,165000,1251
+"805 W Huron St, Ann Arbor, MI Real Estate",2.5,3,1901,9147,20140814,547500,2172
+"822 W Summerfield Glen Cir, Ann Arbor, MI Real Estate",,,,,20140814,159900,
+"1701 Avondale Ave, Ann Arbor, MI Real Estate",1.5,3,1957,7405,20140814,206500,1421
+"601 Sunset Rd, Ann Arbor, MI Real Estate",2.5,4,1935,10454,20140813,538000,2505
+"311 Westwood Ave, Ann Arbor, MI Real Estate",2,4,1926,8276,20140813,450000,2182
+"1241 N Bay Dr, Ann Arbor, MI Real Estate",4,5,2004,6969,20140813,310000,2201
+"3460 Porter Rd, Ann Arbor, MI Real Estate",3,4,2001,5401,20140813,230900,1360
+"402 N Revena Blvd, Ann Arbor, MI Real Estate",1.5,3,1939,5619,20140813,365000,1738
+"714 Patricia Ave, Ann Arbor, MI Real Estate",2,3,1959,7405,20140813,240000,1050
+"136 W Oakbrook Dr, Ann Arbor, MI Real Estate",3,2,2005,,20140813,240000,1250
+"4970 Westgate Ct, Ann Arbor, MI Real Estate",2,3,1990,16117.2,20140812,220000,1366
+"234 Highlake Ave, Ann Arbor, MI Real Estate",1,3,1955,9583,20140812,186000,960
+"959 Hockey Ln, Ann Arbor, MI Real Estate",1,3,1953,27007.2,20140812,250000,1248
+"680 Archwood Dr, Ann Arbor, MI Real Estate",1.5,3,1964,8276,20140811,250000,1338
+"5037 Dexter Ann Arbor Rd, Ann Arbor, MI Real Estate",1.5,3,1964,46173.6,20140811,210867,1334
+"1529 Barnard Rd, Ann Arbor, MI Real Estate",4,4,1961,9147,20140811,365000,2169
+"3246 Honeysuckle Dr, Ann Arbor, MI Real Estate",2.5,4,1998,12632.4,20140810,429000,2600
+"4441 S Parker Rd, Ann Arbor, MI Real Estate",,,,4382136,20140808,827000,
+"436 3rd St, Ann Arbor, MI Real Estate",4,5,1902,8712,20140808,620000,3267
+"1207 Ardmoor Ave, Ann Arbor, MI Real Estate",4,5,1964,9583,20140808,369000,2073
+"2616 Rock Ridge Ct, Ann Arbor, MI Real Estate",3,5,1999,18295.2,20140808,415000,3800
+"2066 Autumn Hill Dr, Ann Arbor, MI Real Estate",4.5,5,2005,25700.4,20140808,860000,4219
+"340 Sedgewood Ln, Ann Arbor, MI Real Estate",3,4,2005,6969,20140808,340000,2565
+"4954 High Meadow Ln, Ann Arbor, MI Real Estate",3.5,5,2000,77101.2,20140808,775000,3880
+"1736 Covington Dr, Ann Arbor, MI Real Estate",2,4,1960,8712,20140807,358000,2298
+"529 6th St, Ann Arbor, MI Real Estate",2,4,1901,7405,20140806,390000,1929
+"449 2nd St, Ann Arbor, MI Real Estate",2,2,1901,8712,20140806,325100,1356
+"1424 Dicken Dr, Ann Arbor, MI Real Estate",3,4,1980,7840,20140806,289000,2131
+"601 W Hoover Ave, Ann Arbor, MI Real Estate",2,2,1942,5619,20140806,202700,869
+"4790 Dawson Dr, Ann Arbor, MI Real Estate",3,3,1978,16117.2,20140806,335000,1690
+"1425 Argyle Cres, Ann Arbor, MI Real Estate",2,2,1958,7971,20140806,319900,1014
+"1833 Wintergreen Ct, Ann Arbor, MI Real Estate",3.5,4,1991,14810.4,20140806,450000,2689
+"273 Scio Village Ct UNIT 238, Ann Arbor, MI Real Estate",2,2,2003,,20140806,225000,1560
+"1307 W Huron St, Ann Arbor, MI Real Estate",1,3,1914,4268,20140806,266000,1227
+"219 W Oakbrook Dr, Ann Arbor, MI Real Estate",2.5,,2006,,20140806,261500,1430
+"Newport Rd, Ann Arbor, MI Real Estate",,,,72309.6,20140806,50000,
+"406 S Revena Blvd, Ann Arbor, MI Real Estate",2,3,1926,5271,20140805,46500,2200
+"999 Honey Creek Dr, Ann Arbor, MI Real Estate",3,3,1964,33105.6,20140805,310000,2759
+"413 5th St, Ann Arbor, MI Real Estate",2.5,2,1901,5793,20140805,255000,1510
+"1662 Scio Ridge Rd, Ann Arbor, MI Real Estate",3,3,1997,4791,20140805,323500,2017
+"2053 Greenview Dr, Ann Arbor, MI Real Estate",2,4,1966,12196.8,20140805,332500,2164
+"1923 Dexter Ave, Ann Arbor, MI Real Estate",,Studio,1965,6490,20140805,200000,1392
+"2346 Dahlia Ct, Ann Arbor, MI Real Estate",,,,,20140804,380000,
+"2844 Whippoorwill Ln, Ann Arbor, MI Real Estate",2,3,1958,55756.8,20140804,282500,1536
+"1805 N Franklin Ct, Ann Arbor, MI Real Estate",2,3,1977,9583,20140804,247500,1529
+"1881 W Liberty St, Ann Arbor, MI Real Estate",3,3,1962,9147,20140804,268000,1372
+"1510 Normandy Rd, Ann Arbor, MI Real Estate",2,3,1956,10454,20140804,395000,1670
+"4235 Sunderland Way, Ann Arbor, MI Real Estate",3,4,1990,15246,20140801,350000,2380
+"1003 S 7th St, Ann Arbor, MI Real Estate",1,3,1959,6708,20140801,1400,1350
+"502 Liberty Pointe Dr, Ann Arbor, MI Real Estate",2.5,2,1992,,20140801,190000,1378
+"350 Pinewood St, Ann Arbor, MI Real Estate",3,4,2001,9583,20140731,379900,2242
+"203 Montgomery Ave, Ann Arbor, MI Real Estate",2,3,1925,5662,20140731,433500,1609
+"1015 Miner St, Ann Arbor, MI Real Estate",3,3,1927,6185,20140731,385000,1769
+"1668 Chapleau Dr, Ann Arbor, MI Real Estate",4,3,2002,6534,20140731,319000,1842
+"4241 Crestline Dr, Ann Arbor, MI Real Estate",2,3,1979,12632.4,20140731,375000,2100
+"240 Hunters Trl, Ann Arbor, MI Real Estate",3,4,2000,1742,20140731,427000,2463
+"581 Archwood Dr, Ann Arbor, MI Real Estate",1,2,1940,360519984,20140731,185000,986
+"463 S Zeeb Rd, Ann Arbor, MI Real Estate",,,,,20140731,280000,
+"224 Snyder Ave, Ann Arbor, MI Real Estate",1,2,2004,,20140731,195000,915
+"624 Revena Pl, Ann Arbor, MI Real Estate",1,3,1954,8712,20140731,275000,1073
+"1707 Orchard St, Ann Arbor, MI Real Estate",2,3,1996,5183,20140731,400000,1680
+"1309 Arella Blvd, Ann Arbor, MI Real Estate",1,3,1955,6969,20140730,224000,1027
+"4251 Saint Andrews Way, Ann Arbor, MI Real Estate",3.5,4,1997,,20140730,378000,2332
+"403 W Keech Ave, Ann Arbor, MI Real Estate",1,3,1940,5532,20140730,268000,1398
+"604 Trego Cir, Ann Arbor, MI Real Estate",2,4,1988,8276,20140730,415000,1857
+"4251 Saint Andrews Way, Ann Arbor, MI Real Estate",3.5,4,1997,,20140730,378000,2332
+"1021 Westview Way, Ann Arbor, MI Real Estate",3,4,1994,57499.2,20140729,600000,3938
+"2918 Signature Blvd, Ann Arbor, MI Real Estate",2.5,2,2002,,20140729,205000,1400
+"404 Pauline Blvd, Ann Arbor, MI Real Estate",2,3,1927,6185,20140729,370000,1284
+"301 Scio Village Ct UNIT 151, Ann Arbor, MI Real Estate",2,2,2002,,20140729,248000,1581
+"1810 Fair St, Ann Arbor, MI Real Estate",1,2,1943,50,20140729,190000,768
+"1265 S Maple Rd APT 207, Ann Arbor, MI Real Estate",2,2,1968,,20140728,82500,1173
+"2131 Pauline Ct, Ann Arbor, MI Real Estate",3,2,1975,,20140728,187700,1368
+"1516 Kuehnle St, Ann Arbor, MI Real Estate",2,4,1965,8276,20140728,270000,1843
+"2075 Winewood Ave, Ann Arbor, MI Real Estate",1,3,1971,6229,20140728,121000,1008
+"2126 N Circle Dr, Ann Arbor, MI Real Estate",2,3,1956,8712,20140728,210000,1040
+"2017 Fair St, Ann Arbor, MI Real Estate",2,3,1976,8276,20140728,203250,1486
+"1006 Fountain St, Ann Arbor, MI Real Estate",1,2,1964,8233,20140728,135000,820
+"525 4th St, Ann Arbor, MI Real Estate",3,4,1910,10802,20140728,750000,2716
+"5055 Carlisle Ct, Ann Arbor, MI Real Estate",4.5,4,1999,23086.8,20140728,775000,4058
+"1526 Newport Rd, Ann Arbor, MI Real Estate",2,3,1954,11325.6,20140728,225000,1104
+"905 Wildwood Ln, Ann Arbor, MI Real Estate",2.5,4,2005,119354.4,20140725,500000,3176
+"3055 Cottontail Ct, Ann Arbor, MI Real Estate",3.5,5,1991,44431.2,20140725,750000,3416
+"2722 Roseland Dr, Ann Arbor, MI Real Estate",3,4,1966,42688.8,20140725,384000,2137
+"803 Wildt St, Ann Arbor, MI Real Estate",,,,,20140725,675000,
+"5974 Cedar Ridge Dr, Ann Arbor, MI Real Estate",3,4,2000,1742,20140724,382500,2925
+"2257 Delaware Dr, Ann Arbor, MI Real Estate",2.5,5,1971,11325.6,20140722,479000,2568
+"9088 W Liberty Rd, Ann Arbor, MI Real Estate",2.5,3,2001,435600,20140722,494000,3312
+"770 S Maple Rd, Ann Arbor, MI Real Estate",2,4,1923,9191,20140722,168000,1300
+"4872 Greenook Ct, Ann Arbor, MI Real Estate",3,4,1997,27442.8,20140722,350000,2612
+"1654 Abigail Way, Ann Arbor, MI Real Estate",3.5,4,1999,5662,20140722,322900,1824
+"2381 Delaware Dr, Ann Arbor, MI Real Estate",4,4,1987,17424,20140722,585000,3542
+"1108 Belmar Pl, Ann Arbor, MI Real Estate",1.5,3,1971,5575,20140722,260000,1152
+"920 W Summerfield Glen Cir, Ann Arbor, MI Real Estate",2,2,2008,435,20140722,162500,1231
+"1436 Kuehnle St, Ann Arbor, MI Real Estate",2,4,1965,8712,20140722,270000,1812
+"1706 Fulmer St, Ann Arbor, MI Real Estate",1.5,3,1940,14810.4,20140722,285000,1980
+"333 Mulholland St, Ann Arbor, MI Real Estate",3,3,1910,6969,20140722,500000,1978
+"2116 Pauline Blvd APT 302, Ann Arbor, MI Real Estate",1,1,1968,,20140722,66500,732
+"110 W Oakbrook Dr, Ann Arbor, MI Real Estate",2,2,2005,,20140722,266500,1470
+"3078 Cottontail Ct, Ann Arbor, MI Real Estate",5,4,1990,46609.2,20140722,1060000,4250
+"1840 Coronada St, Ann Arbor, MI Real Estate",2,3,1954,9060,20140722,226000,1140
+"770 S Maple Rd, Ann Arbor, MI Real Estate",2,4,1923,9191,20140722,168000,1300
+"1415 Kelly Green Dr # 5, Ann Arbor, MI Real Estate",1.5,4,1990,,20140722,306000,2152
+"4872 Greenook Ct, Ann Arbor, MI Real Estate",3,4,1997,27442.8,20140722,350000,2612
+"5563 Gallery Park Dr # 55, Ann Arbor, MI Real Estate",,,,,20140721,337000,
+"5962 Cedar Ridge Dr, Ann Arbor, MI Real Estate",4,4,2000,14810.4,20140721,389000,2723
+"722 S 7th St, Ann Arbor, MI Real Estate",2,3,1901,6882,20140718,222500,1910
+"2719 Provincetown Ct, Ann Arbor, MI Real Estate",2.5,5,1974,39204,20140718,495000,2600
+"555 Galen Cir, Ann Arbor, MI Real Estate",3,2,1990,,20140718,322500,1935
+"2642 Craig Rd, Ann Arbor, MI Real Estate",3,4,1962,49222.8,20140718,498000,3330
+"1645 Wake Robin Ct, Ann Arbor, MI Real Estate",2.5,4,1992,10018,20140717,392000,3231
+"3732 Oakmore Ct, Ann Arbor, MI Real Estate",3,4,1991,109335.6,20140717,950000,3330
+"826 W Washington St, Ann Arbor, MI Real Estate",1,2,1910,5662,20140716,304000,1244
+"410 Wilder Pl, Ann Arbor, MI Real Estate",1,2,1947,5662,20140716,185000,756
+"1109 Stags Leap Ln, Ann Arbor, MI Real Estate",3,4,1997,444312,20140716,530000,3125
+"2232 Walter Dr, Ann Arbor, MI Real Estate",3,3,1960,7405,20140716,315000,1660
+"410 Wilder Pl, Ann Arbor, MI Real Estate",1,2,1947,5662,20140716,185000,756
+"1805 Virnankay Cir, Ann Arbor, MI Real Estate",2,3,1955,6098,20140716,232500,1022
+"826 W Washington St, Ann Arbor, MI Real Estate",1,2,1910,5662,20140716,304000,1244
+"1518 Ardmoor Ave, Ann Arbor, MI Real Estate",1.5,3,1947,7187,20140716,233400,1372
+"1109 Stags Leap Ln, Ann Arbor, MI Real Estate",3,4,1997,444312,20140716,530000,3125
+"1732 Hanover Rd, Ann Arbor, MI Real Estate",2,3,1957,8276,20140716,252000,1251
+"121 Worden Ave, Ann Arbor, MI Real Estate",1,2,1929,9147,20140716,230000,1127
+"639 Liberty Pointe Dr, Ann Arbor, MI Real Estate",2.5,3,1989,,20140716,204900,1378
+"3246 Sunnywood Dr, Ann Arbor, MI Real Estate",2,3,1965,15246,20140716,349000,1468
+"1018 Pomona Rd, Ann Arbor, MI Real Estate",2,3,1956,14810.4,20140715,333000,1710
+"5819 Versailles Ave, Ann Arbor, MI Real Estate",4,5,2001,,20140715,425000,2877
+"2395 Delaware Dr, Ann Arbor, MI Real Estate",2,4,1986,20037.6,20140715,365000,2412
+"927 Northwood St, Ann Arbor, MI Real Estate",1,4,1952,8364,20140715,237500,1380
+"5759 Villa France Ave # 75, Ann Arbor, MI Real Estate",3.5,4,1999,8712,20140715,330000,2052
+"2207 S Main St, Ann Arbor, MI Real Estate",2,2,2003,,20140714,164000,1190
+"6555 Scio Church Rd, Ann Arbor, MI Real Estate",2,3,1991,141134.4,20140711,265100,1400
+"5994 Cedar Ridge Dr, Ann Arbor, MI Real Estate",3,4,2000,13939.2,20140711,390000,2794
+"5891 Rollingwood Dr, Ann Arbor, MI Real Estate",3,4,1999,10890,20140711,339175,2436
+"6271 Scio Church Rd, Ann Arbor, MI Real Estate",,,,92347.2,20140711,265100,
+"4711 Whitman Cir, Ann Arbor, MI Real Estate",3,5,1974,26136,20140710,310000,2528
+"1355 Ardmoor Ave, Ann Arbor, MI Real Estate",2,4,1963,8145,20140710,354000,1876
+"961 Honey Creek Dr, Ann Arbor, MI Real Estate",2.5,4,1965,39204,20140710,408600,2444
+"7021 Scio Church Rd, Ann Arbor, MI Real Estate",3,3,1994,113691.6,20140710,295000,1913
+"2001 Marra Dr, Ann Arbor, MI Real Estate",3,3,1990,9147,20140710,423890,2306
+"1624 Hatcher Cres, Ann Arbor, MI Real Estate",1.5,3,1956,8450,20140710,223800,1014
+"961 Honey Creek Dr, Ann Arbor, MI Real Estate",2.5,4,1965,39204,20140710,408600,2444
+"4520 Canterbury Ct, Ann Arbor, MI Real Estate",3,4,1990,14810.4,20140709,367000,2297
+"4872 Greenook Ct, Ann Arbor, MI Real Estate",2.5,4,1997,27442.8,20140709,350000,2612
+"1032 Bluestem Ln, Ann Arbor, MI Real Estate",3,2,2000,,20140708,165000,1158
+"3600 S Wagner Rd, Ann Arbor, MI Real Estate",,,,849420,20140707,110000,
+"560 Little Lake Dr UNIT 1, Ann Arbor, MI Real Estate",,,,,20140707,210000,
+"230 Highlake Ave, Ann Arbor, MI Real Estate",1,4,1960,9583,20140707,197400,1044
+"1061 Western Dr, Ann Arbor, MI Real Estate",2,3,1959,6098,20140707,225000,1373
+"1616 Snowberry Ridge Rd, Ann Arbor, MI Real Estate",2.5,4,1992,15246,20140707,412500,2499
+"467 S Zeeb Rd, Ann Arbor, MI Real Estate",3,3,2013,,20140707,274500,1650
+"210 Pleasant Pl, Ann Arbor, MI Real Estate",2,3,1926,9583,20140707,298200,1575
+"4107 Eastgate Dr, Ann Arbor, MI Real Estate",3.5,4,1993,23086.8,20140707,380000,1798
+"704 Duncan St, Ann Arbor, MI Real Estate",1,3,1951,6098,20140707,215000,1200
+"1217 Bydding Rd, Ann Arbor, MI Real Estate",2,4,1951,13503.6,20140707,165000,1889
+"4874 Polo Fields Dr, Ann Arbor, MI Real Estate",4,4,2000,20473.2,20140707,557400,3188
+"3729 West St, Ann Arbor, MI Real Estate",2.5,3,1996,43560,20140703,329000,2114
+"452 Colin Cir, Ann Arbor, MI Real Estate",3.5,4,1994,6969,20140703,351000,2597
+"720 Linda Vista St, Ann Arbor, MI Real Estate",2,4,1955,6534,20140703,249000,1566
+"3417 Miller Rd, Ann Arbor, MI Real Estate",2.5,4,1999,55756.8,20140703,455000,2829
+"521 Snyder Ave, Ann Arbor, MI Real Estate",1,2,1952,2657,20140703,165000,935
+"711 Spring St, Ann Arbor, MI Real Estate",1.5,3,1901,5227,20140703,415000,1392
+"2132 Pauline Blvd APT 206, Ann Arbor, MI Real Estate",1,1,1959,,20140703,75000,927
+"2322 Faye Dr, Ann Arbor, MI Real Estate",1,3,1959,7840,20140703,173000,1008
+"361 Lake Park Ln, Ann Arbor, MI Real Estate",2.5,2,1990,10323,20140703,320500,1528
+"1415 Creal Cres, Ann Arbor, MI Real Estate",1,3,1955,10803,20140703,209000,1014
+"452 Colin Cir, Ann Arbor, MI Real Estate",3.5,4,1994,6969,20140703,351000,2597
+"521 Snyder Ave, Ann Arbor, MI Real Estate",1,2,1952,2657,20140703,165000,935
+"3417 Miller Rd, Ann Arbor, MI Real Estate",2.5,4,1999,55756.8,20140703,455000,2829
+"720 Linda Vista St, Ann Arbor, MI Real Estate",2,4,1955,6534,20140703,249000,1566
+"2938 Newport Rd, Ann Arbor, MI Real Estate",1,2,1950,42253.2,20140703,329175,1322
+"1738 Reserve Way, Ann Arbor, MI Real Estate",3,3,2000,5227,20140702,324900,2027
+"404 Snyder Ave, Ann Arbor, MI Real Estate",1,3,1933,6621,20140702,337500,1418
+"2342 Blueberry Ln, Ann Arbor, MI Real Estate",3,4,1961,44866.8,20140701,425000,1936
+"5922 Cedar Ridge Dr, Ann Arbor, MI Real Estate",4,4,2000,16988.4,20140630,389900,2567
+"220 Buena Vista Ave, Ann Arbor, MI Real Estate",,Studio,1956,4704,20140630,205000,1248
+"4794 Holly Way, Ann Arbor, MI Real Estate",3.5,3,1985,,20140630,425000,2496
+"2310 Kent St, Ann Arbor, MI Real Estate",2.5,3,1968,10149,20140630,279000,1449
+"745 Gott St, Ann Arbor, MI Real Estate",2.5,3,1901,4486,20140630,409000,1370
+"5701 Versailles Ave, Ann Arbor, MI Real Estate",,,,,20140630,293000,
+"5879 Versailles Ave, Ann Arbor, MI Real Estate",3,3,2000,,20140630,319900,1986
+"2101 Pauline Ct, Ann Arbor, MI Real Estate",2,3,1975,,20140630,215000,1652
+"814 3rd St, Ann Arbor, MI Real Estate",2,3,1924,4791,20140630,355000,1046
+"3260 Miller Rd, Ann Arbor, MI Real Estate",3.5,4,1919,117612,20140630,717000,2481
+"772 N Wagner Rd, Ann Arbor, MI Real Estate",3,3,1955,99316.8,20140630,440000,2722
+"518 N 7th St, Ann Arbor, MI Real Estate",1.5,2,,,20140630,330000,1020
+"2740 Parkridge Dr, Ann Arbor, MI Real Estate",3,3,1963,47044.8,20140627,507000,2367
+"3695 Huron Ct, Ann Arbor, MI Real Estate",3,4,1978,19166.4,20140627,298600,2058
+"814 Gott St, Ann Arbor, MI Real Estate",1,3,1927,6185,20140627,300000,1220
+"1137 Kay Pkwy, Ann Arbor, MI Real Estate",2,3,1955,5750,20140627,199900,840
+"1511 Kirtland Dr, Ann Arbor, MI Real Estate",2,3,1955,7405,20140625,261100,1110
+"2583 N Wagner Rd, Ann Arbor, MI Real Estate",3,4,1962,43560,20140625,352000,2265
+"1027 Miller Ave, Ann Arbor, MI Real Estate",3,4,1850,14810.4,20140625,230000,1686
+"533 S 7th St, Ann Arbor, MI Real Estate",2,3,1910,9235,20140625,190000,1328
+"5416 River Ridge Ln, Ann Arbor, MI Real Estate",3.5,3,2005,118047.6,20140625,550000,2136
+"1534 Waltham Dr, Ann Arbor, MI Real Estate",3,5,1961,7492,20140625,290000,1928
+"1465 Bemidji Dr, Ann Arbor, MI Real Estate",2,Studio,1964,7230,20140625,251000,1966
+"703 Duncan St, Ann Arbor, MI Real Estate",2,3,1951,6534,20140625,231000,1200
+"5027 John Holmes Rd, Ann Arbor, MI Real Estate",2.5,3,1966,50965.2,20140625,352500,1914
+"1032 Bluestem Ln, Ann Arbor, MI Real Estate",2.5,2,2001,,20140625,165000,1158
+"402 2nd St, Ann Arbor, MI Real Estate",1,3,1901,5227,20140625,230000,993
+"2562 Newport Rd, Ann Arbor, MI Real Estate",1.5,3,1965,69260.4,20140625,282000,1275
+"2684 Lone Oak Dr, Ann Arbor, MI Real Estate",,,,,20140625,89000,
+"1365 Kuehnle St, Ann Arbor, MI Real Estate",1.5,3,1964,7840,20140625,266500,1428
+"647 Wembley Ct, Ann Arbor, MI Real Estate",3,4,1966,11325.6,20140624,475000,1868
+"2940 Signature Blvd, Ann Arbor, MI Real Estate",2,2,2003,,20140624,199000,1473
+"3477 Wagner Woods Ct, Ann Arbor, MI Real Estate",3.5,4,1988,49222.8,20140623,645000,3420
+"852 Fairway Park Dr, Ann Arbor, MI Real Estate",4,4,1999,17424,20140623,382500,2341
+"5962 Quebec Ave, Ann Arbor, MI Real Estate",4,4,2000,10018,20140623,325000,2150
+"1140 Birk Ave, Ann Arbor, MI Real Estate",2,3,1939,7840,20140623,261000,1174
+"1202 Bydding Rd, Ann Arbor, MI Real Estate",2,4,1952,16552.8,20140623,424900,2134
+"918 Hutchins Ave, Ann Arbor, MI Real Estate",2.5,3,1925,6708,20140623,500000,2145
+"921 Raymond St, Ann Arbor, MI Real Estate",2,3,1957,8755,20140620,250000,1771
+"1536 Kirtland Dr, Ann Arbor, MI Real Estate",1.5,3,1955,7187,20140620,255100,1102
+"5759 Villa France, Scio, MI Real Estate",3.5,4,1999,8712,20140620,330000,2052
+"1002 Bluestem Ln, Ann Arbor, MI Real Estate",2.5,3,2001,,20140619,195000,1639
+"1801 Abbott Ave, Ann Arbor, MI Real Estate",2,3,1951,7187,20140619,270000,1434
+"2583 N Wagner Rd, Ann Arbor, MI Real Estate",2.1,4,1962,,20140619,352000,2265
+"3848 S Michael Rd, Ann Arbor, MI Real Estate",3,4,1988,54014.4,20140619,654500,2783
+"2480 Mershon Dr, Ann Arbor, MI Real Estate",3,4,1968,11325.6,20140619,449900,2487
+"2142 Pauline Blvd APT 301, Ann Arbor, MI Real Estate",2,2,1968,,20140619,87000,1173
+"3484 Ann Arbor Saline Rd, Ann Arbor, MI Real Estate",2,3,1945,67518,20140618,183000,1125
+"229 Scio Village Ct UNIT 217, Ann Arbor, MI Real Estate",,,,,20140618,192500,
+"183 Kingsbrook Ave, Ann Arbor, MI Real Estate",3,3,1992,,20140618,270000,1306
+"703 Felch St, Ann Arbor, MI Real Estate",3.5,5,1980,6490,20140618,525000,2308
+"2618 Patricia Ct, Ann Arbor, MI Real Estate",2,3,1962,7405,20140618,255000,1531
+"2072 Liberty Hts, Ann Arbor, MI Real Estate",2.5,2,2005,,20140618,646000,1774
+"945 Northwood St, Ann Arbor, MI Real Estate",2,3,1952,9540,20140618,90000,1163
+"5004 Birkdale Dr, Ann Arbor, MI Real Estate",5,6,1998,19166.4,20140618,646000,3430
+"1006 Bluestem Ln, Ann Arbor, MI Real Estate",3,2,2001,,20140617,181000,1316
+"1708 Barrington Pl, Ann Arbor, MI Real Estate",2,3,1959,9583,20140616,255000,1395
+"259 Sandrock Ct, Ann Arbor, MI Real Estate",2.5,4,1997,15681.6,20140615,2500,2279
+"3041 Waters Meadow Trl, Ann Arbor, MI Real Estate",2.5,4,2005,33541.2,20140613,215000,2400
+"331 Scio Village Ct UNIT 282, Ann Arbor, MI Real Estate",,,,,20140613,218000,
+"5947 Versailles Ave, Ann Arbor, MI Real Estate",3.5,4,1999,,20140612,313000,1978
+"3057 Green Valley Dr # 61, Ann Arbor, MI Real Estate",,,,,20140612,336000,
+"2605 Salisbury Ln, Ann Arbor, MI Real Estate",2.5,4,1969,19602,20140612,510000,2677
+"1607 Winsted Blvd, Ann Arbor, MI Real Estate",2,3,1955,6838,20140612,238000,1169
+"1380 Honey Run Dr, Ann Arbor, MI Real Estate",3,4,1991,466092,20140612,455000,2893
+"1826 Virnankay Cir, Ann Arbor, MI Real Estate",2,3,1955,6534,20140612,187000,912
+"1607 Winsted Blvd, Ann Arbor, MI Real Estate",2,3,1955,6838,20140612,238000,1169
+"2230 Rivenoak Ct # 55, Ann Arbor, MI Real Estate",3.5,2,1981,,20140612,280000,1885
+"607 Westwood Ave, Ann Arbor, MI Real Estate",1.5,3,1956,7275,20140611,206000,1086
+"1755 S Franklin Ct, Ann Arbor, MI Real Estate",1,3,1974,8712,20140611,215000,1444
+"401 Montgomery Ave, Ann Arbor, MI Real Estate",2,3,1952,5662,20140611,276500,1274
+"1904 Arborview Blvd, Ann Arbor, MI Real Estate",3,3,1956,6098,20140611,215000,1080
+"922 Lennox St, Ann Arbor, MI Real Estate",2,4,1987,8102,20140611,250000,1670
+"4867 Whitman Cir, Ann Arbor, MI Real Estate",,,,,20140611,356000,
+"5917 Quebec Ave, Ann Arbor, MI Real Estate",2.5,3,2000,10890,20140611,305000,1778
+"2215 Steeplechase Dr, Ann Arbor, MI Real Estate",2.5,3,1974,10454,20140611,272000,1684
+"119 Virginia Ave, Ann Arbor, MI Real Estate",2,3,1919,5662,20140610,350000,1416
+"2178 Overlook Ct # 328, Ann Arbor, MI Real Estate",2.5,3,1979,,20140610,320000,1850
+"1210 Prescott Ave, Ann Arbor, MI Real Estate",2,3,1940,6534,20140606,343100,1381
+"2192 Greenview Dr, Ann Arbor, MI Real Estate",2,4,1964,13068,20140606,386000,1847
+"1273 Timmins Dr, Ann Arbor, MI Real Estate",,,,,20140606,298500,
+"603 Ridgewood Ct, Ann Arbor, MI Real Estate",3,2,1992,,20140606,370000,2000
+"1459 Covington Dr, Ann Arbor, MI Real Estate",3,3,1964,9147,20140606,307000,1408
+"130 W Oakbrook Dr, Ann Arbor, MI Real Estate",2,2,2005,,20140606,240000,1493
+"805 3rd St, Ann Arbor, MI Real Estate",1,3,1933,6534,20140605,280000,1124
+"2630 Patricia Ct, Ann Arbor, MI Real Estate",2,4,1962,7405,20140605,239900,1428
+"3115 Prairie Circle Trl # 6, Ann Arbor, MI Real Estate",3.5,4,2005,33541.2,20140604,408000,2316
+"1109 Joyce Ln, Ann Arbor, MI Real Estate",2,2,,,20140604,155000,1160
+"5846 Versailles Ave, Ann Arbor, MI Real Estate",3,3,2000,,20140604,370000,2668
+"559 Archwood Dr, Ann Arbor, MI Real Estate",1,3,1966,8276,20140604,190000,988
+"495 Woodgrove Dr, Ann Arbor, MI Real Estate",3,4,1990,,20140603,275100,1742
+"203 N 7th St, Ann Arbor, MI Real Estate",1,3,1913,6141,20140603,170000,1302
+"229 Scio Village Ct UNIT 216, Ann Arbor, MI Real Estate",2,2,2003,,20140603,224900,1586
+"916 Patricia Ave, Ann Arbor, MI Real Estate",2,3,1963,7753,20140603,215000,1531
+"849 E Summerfield Glen Cir, Ann Arbor, MI Real Estate",2,3,2007,871,20140603,190000,1385
+"1556 Chapleau Dr, Ann Arbor, MI Real Estate",3,4,2002,6534,20140603,310000,2391
+"495 Woodgrove Dr, Ann Arbor, MI Real Estate",3,4,1990,,20140603,275100,1742
+"1722 Charlton St, Ann Arbor, MI Real Estate",3,4,1925,7405,20140603,351000,1355
+"106 Tulip Tree Ct, Ann Arbor, MI Real Estate",3,2,1987,,20140602,227375,1044
+"2631 Valley Dr, Ann Arbor, MI Real Estate",1,2,1959,9147,20140602,145527,1000
+"4293 Sherwood Forest Ct, Ann Arbor, MI Real Estate",3,4,1992,49222.8,20140602,375000,2312
+"1301 Arella Blvd, Ann Arbor, MI Real Estate",2,3,1955,6534,20140602,223800,1027
+"1065 Westaire Way, Ann Arbor, MI Real Estate",2,3,1956,6098,20140602,180000,936
+"3008 Green Valley Dr, Ann Arbor, MI Real Estate",2.5,4,1997,,20140602,325000,2258
+"746 Bogey Ct # 32, Ann Arbor, MI Real Estate",4.5,5,2003,18295.2,20140530,820000,3300
+"1955 Timber Trl, Ann Arbor, MI Real Estate",3.5,5,2000,8712,20140530,399800,2397
+"1815 Cranberry Ct, Ann Arbor, MI Real Estate",2.5,3,2002,13939.2,20140530,450000,2515
+"1706 Morehead Dr, Ann Arbor, MI Real Estate",2.5,4,1969,12632.4,20140530,400000,2320
+"5920 Quebec Ave, Ann Arbor, MI Real Estate",3.5,3,2000,,20140530,302000,2187
+"2125 Churchill Dr, Ann Arbor, MI Real Estate",1.5,3,1974,9583,20140529,234000,1350
+"424 Little Lake Dr APT 16, Ann Arbor, MI Real Estate",2,1,1999,,20140529,130500,738
+"424 Little Lake Dr APT 27, Ann Arbor, MI Real Estate",1,1,1999,,20140529,130500,726
+"4436 Sherwood Forest Ct, Ann Arbor, MI Real Estate",3,3,1992,47916,20140529,392450,2539
+"1539 Ardmoor Ave, Ann Arbor, MI Real Estate",1,2,1952,7187,20140528,206000,1260
+"1120 Fountain St, Ann Arbor, MI Real Estate",2,3,1960,30927.6,20140528,450000,1966
+"812 W Summerfield Glen Cir, Ann Arbor, MI Real Estate",2,2,2007,,20140528,145000,1260
+"1120 Fountain St, Ann Arbor, MI Real Estate",2,3,1960,30927.6,20140528,450000,1966
+"5061 Waters Rd, Ann Arbor, MI Real Estate",2,3,1983,1237104,20140527,95000,1068
+"1509 Martha Ave, Ann Arbor, MI Real Estate",2,5,1962,7405,20140523,360000,1248
+"283 S Zeeb Rd UNIT 203, Ann Arbor, MI Real Estate",2,2,2004,,20140523,1500,1309
+"1039 Westaire Way, Ann Arbor, MI Real Estate",2,3,1956,6011,20140523,120000,936
+"1120 Wendy Ct, Ann Arbor, MI Real Estate",1,3,1978,7492,20140523,239000,1056
+"1534 Woodland Dr, Ann Arbor, MI Real Estate",1,3,1955,8276,20140523,200000,1102
+"1855 N Franklin Ct, Ann Arbor, MI Real Estate",3,4,1975,9583,20140522,236000,1696
+"5529 Gallery Park Dr, Ann Arbor, MI Real Estate",3,2,2005,,20140522,340000,
+"217 Buena Vista Ave, Ann Arbor, MI Real Estate",2,2,1923,4356,20140521,315000,1246
+"2993 Silver Spring Dr, Ann Arbor, MI Real Estate",2.5,4,1996,10018,20140521,348000,2241
+"1021 Bruce St, Ann Arbor, MI Real Estate",2,3,1953,10018,20140521,255500,988
+"2059 Liberty Hts # 33, Ann Arbor, MI Real Estate",2.5,4,2005,,20140521,353000,1940
+"1606 Charlton St, Ann Arbor, MI Real Estate",1,2,1920,5749,20140521,215000,780
+"2120 Pauline Blvd APT 207, Ann Arbor, MI Real Estate",1,2,1975,,20140521,81000,929
+"471 S Zeeb Rd, Ann Arbor, MI Real Estate",3,3,,,20140521,279500,1650
+"4320 Pratt Rd, Ann Arbor, MI Real Estate",,,,345430.8,20140520,225000,
+"501 Huronview Blvd, Ann Arbor, MI Real Estate",2,4,1952,22215.6,20140520,380000,2970
+"591 Glendale Cir, Ann Arbor, MI Real Estate",2.5,3,1987,,20140520,270000,1148
+"7465 Scio Church Rd, Ann Arbor, MI Real Estate",,,,2879316,20140520,275000,
+"1572 Marian Ave, Ann Arbor, MI Real Estate",2,3,1956,7187,20140519,239900,1134
+"1165 Joyce Ln, Ann Arbor, MI Real Estate",,,,,20140516,150000,
+"4633 Dexter Ann Arbor Rd, Ann Arbor, MI Real Estate",1.5,3,1987,58370.4,20140516,216500,1571
+"2061 Pauline Ct, Ann Arbor, MI Real Estate",2,2,1975,,20140515,220000,1652
+"1911 Miller Ave, Ann Arbor, MI Real Estate",3,3,1960,8712,20140515,180000,1107
+"1911 Miller Ave, Ann Arbor, MI Real Estate",3,3,1960,8712,20140515,180000,1107
+"404 W Summit St, Ann Arbor, MI Real Estate",1,1,1901,9060,20140514,245000,963
+"1681 Fulmer St, Ann Arbor, MI Real Estate",2.5,3,2004,8276,20140514,355000,2088
+"1729 Weldon Blvd, Ann Arbor, MI Real Estate",1.5,3,1955,7405,20140514,230000,1102
+"571 Glendale Cir, Ann Arbor, MI Real Estate",2,2,1986,,20140513,239900,1280
+"1030 W Summerfield Glen Cir # 79, Ann Arbor, MI Real Estate",2,2,2013,,20140513,153585,1125
+"849 E Summerfield Glen Cir, Ann Arbor, MI Real Estate",2,3,2007,,20140513,190000,
+"719 Hutchins Ave, Ann Arbor, MI Real Estate",2,3,1948,6098,20140513,321600,1213
+"1560 Northbrook Dr, Ann Arbor, MI Real Estate",2,3,1986,7405,20140513,227000,1306
+"4633 Dexter Ann Arbor Rd, Ann Arbor, MI Real Estate",,,,,20140512,216500,
+"755 Scio Church Rd, Ann Arbor, MI Real Estate",3,4,1965,10018,20140509,377500,2503
+"5070 Gullane Dr, Ann Arbor, MI Real Estate",4,4,1995,19602,20140509,485000,2961
+"655 Liberty Pointe Dr # 13, Ann Arbor, MI Real Estate",3.5,3,1989,,20140509,377500,1400
+"2105 Pauline Ct, Ann Arbor, MI Real Estate",3,3,1976,,20140509,179500,1672
+"331 Scio Village Ct UNIT 286, Ann Arbor, MI Real Estate",2,3,,,20140509,229900,1501
+"572 S 7th St, Ann Arbor, MI Real Estate",2,2,1984,,20140509,202000,1047
+"2223 S Main St, Ann Arbor, MI Real Estate",2,3,2003,,20140508,189900,1254
+"4555 E Loch Alpine Dr, Ann Arbor, MI Real Estate",2.5,4,1990,,20140508,315000,3267
+"1816 Northbrook Dr, Ann Arbor, MI Real Estate",2,2,1984,13503.6,20140508,200000,988
+"116 Longman Ln, Ann Arbor, MI Real Estate",1,3,1947,3920,20140508,182000,936
+"5566 Gallery Park Dr, Ann Arbor, MI Real Estate",,,,,20140506,361000,
+"5556 Gallery Park Dr # 18, Ann Arbor, MI Real Estate",2.5,3,2006,,20140506,305500,2200
+"309 Mason Ave, Ann Arbor, MI Real Estate",2,3,1956,6708,20140506,180000,912
+"4737 Pratt Rd, Ann Arbor, MI Real Estate",3.5,4,1996,34848,20140506,398000,2135
+"5889 Lafayette Ln, Ann Arbor, MI Real Estate",3,3,2001,,20140506,285000,1701
+"309 Mason Ave, Ann Arbor, MI Real Estate",2,3,1956,6708,20140506,180000,912
+"2776 Holyoke Ln, Ann Arbor, MI Real Estate",3.1,4,2001,19166.4,20140502,535000,2279
+"1032 W Summerfield Glen Cir, Ann Arbor, MI Real Estate",,,,,20140502,155800,
+"2142 Pauline Blvd APT 302, Ann Arbor, MI Real Estate",1,1,1959,,20140502,80000,927
+"2051 Pauline Ct, Ann Arbor, MI Real Estate",2,2,1976,,20140502,210000,1408
+"2911 Hilltop Dr, Ann Arbor, MI Real Estate",2,2,1965,12196.8,20140502,173000,988
+"7255 W Liberty Rd, Ann Arbor, MI Real Estate",2,3,1985,218235.6,20140502,235000,1904
+"309 W Hoover Ave, Ann Arbor, MI Real Estate",2,3,1942,6839,20140502,299000,1384
+"3051 Foster Rd, Ann Arbor, MI Real Estate",2,3,1875,43560,20140502,400000,1546
+"4867 Greenook Ct, Ann Arbor, MI Real Estate",4,4,1998,24393.6,20140502,358000,2138
+"424 Little Lake Dr APT 39, Ann Arbor, MI Real Estate",2,3,1998,871200,20140502,238500,1690
+"424 Little Lake Dr APT 30, Ann Arbor, MI Real Estate",,,,,20140502,157000,
+"315 2nd St APT 317, Ann Arbor, MI Real Estate",2,2,2007,,20140501,580000,1649
+"422 Sumark Way, Ann Arbor, MI Real Estate",3,3,1994,,20140501,274000,1659
+"2515 Jade Ct, Ann Arbor, MI Real Estate",2.5,2,1993,,20140501,235000,1289
+"315 Linda Vista St, Ann Arbor, MI Real Estate",2,3,1949,7318,20140501,307500,1200
+"Hobbiton Ln, Ann Arbor, MI Real Estate",,,,127630.8,20140501,140000,
+"1566 Scio Ridge Rd, Ann Arbor, MI Real Estate",3,4,2001,6969,20140430,321000,2189
+"627 Ridgewood Ct, Ann Arbor, MI Real Estate",3,2,1992,,20140430,295000,1146
+"637 Kuehnle St, Ann Arbor, MI Real Estate",4,3,2002,11761.2,20140430,340000,2272
+"5587 Versailles Ave, Ann Arbor, MI Real Estate",4,4,1997,13068,20140429,320000,1973
+"1615 Jackson Ave, Ann Arbor, MI Real Estate",1,3,1923,4835,20140429,80000,1248
+"2112 Liberty Hts, Ann Arbor, MI Real Estate",2.5,3,2005,,20140429,330000,1720
+"945 Rose Dr, Ann Arbor, MI Real Estate",2,3,1949,16552.8,20140428,231000,1195
+"5692 Versailles, Scio, MI Real Estate",2.5,3,1999,8276,20140428,2200,1741
+"5692 Versailles, Scio, MI Real Estate",2.5,3,1999,8276,20140428,2200,1741
+"900 Duncan St, Ann Arbor, MI Real Estate",1,3,1951,6098,20140428,216900,1200
+"1335 Ravenwood St, Ann Arbor, MI Real Estate",2,3,1967,8973,20140428,209900,1781
+"4990 Birkdale Dr, Ann Arbor, MI Real Estate",4,5,1992,23522.4,20140428,595000,3037
+"1485 Scio Church Rd, Ann Arbor, MI Real Estate",2,4,1940,27878.4,20140428,289500,1880
+"5587 Versailles Ave, Ann Arbor, MI Real Estate",4,4,1997,,20140425,320000,1973
+"1906 Ivywood Dr, Ann Arbor, MI Real Estate",2.5,4,1963,9583,20140425,182000,2400
+"3017 Walnut Ridge Dr, Ann Arbor, MI Real Estate",6,4,2003,28314,20140425,835000,5438
+"4722 Selkirk Ct, Ann Arbor, MI Real Estate",,,,16117.2,20140425,58000,
+"1036 W Summerfield Glen Cir # 72, Ann Arbor, MI Real Estate",2,2,2013,,20140425,162700,1143
+"1420 Chapleau Dr, Ann Arbor, MI Real Estate",2.5,3,2003,7405,20140425,305000,2091
+"1488 Marian Ave, Ann Arbor, MI Real Estate",1.5,3,1956,7405,20140425,239900,1134
+"2424 N Circle Dr, Ann Arbor, MI Real Estate",1,3,1957,7840,20140424,102150,1300
+"823 Loyola Dr, Ann Arbor, MI Real Estate",1,3,1953,7928,20140424,250000,864
+"8156 W Ellsworth Rd, Ann Arbor, MI Real Estate",3,4,2000,122403.6,20140423,355000,2741
+"2130 Pauline Blvd APT 201, Ann Arbor, MI Real Estate",2,2,1968,,20140423,83000,1173
+"4820 Gifford Ct, Ann Arbor, MI Real Estate",,,,,20140422,410000,
+"1420 Kelly Green Dr, Ann Arbor, MI Real Estate",2,3,1993,,20140422,240000,1495
+"1935 Timber Trl, Ann Arbor, MI Real Estate",3,4,2001,9583,20140421,379900,2400
+"1257 Joyce Ln, Ann Arbor, MI Real Estate",2,2,2002,,20140421,148000,1160
+"3412 Porter Rd, Ann Arbor, MI Real Estate",1,3,1940,7362,20140421,180000,1152
+"2400 Appleridge Dr # 85, Ann Arbor, MI Real Estate",3.5,4,1999,10018,20140418,405000,2666
+"1440 Hatcher Cres, Ann Arbor, MI Real Estate",2,4,1955,7405,20140418,260000,1255
+"1586 Abigail Way, Ann Arbor, MI Real Estate",3.5,3,2001,5662,20140418,305000,1680
+"1402 Charlton St, Ann Arbor, MI Real Estate",2,3,1925,5662,20140417,435000,1632
+"716 W Liberty St, Ann Arbor, MI Real Estate",2,3,1901,2874,20140417,352000,1656
+"1304 Prescott Ave, Ann Arbor, MI Real Estate",2,4,1941,6996,20140417,140000,1880
+"1300 Prescott Ave, Ann Arbor, MI Real Estate",1,2,1940,7013,20140417,140000,930
+"2140 Runnymede Blvd, Ann Arbor, MI Real Estate",2,3,1959,11325.6,20140416,310000,1897
+"204 Chapin St, Ann Arbor, MI Real Estate",2,4,1920,7840,20140416,305000,1494
+"3210 Lakewood Dr, Ann Arbor, MI Real Estate",1,3,1960,10497,20140416,175190,1019
+"2524 Country Village Ct, Ann Arbor, MI Real Estate",2,3,1991,,20140416,218000,1500
+"309 Wesley Ave, Ann Arbor, MI Real Estate",1,2,1941,5488,20140415,380000,980
+"427 Ryan Rd, Ann Arbor, MI Real Estate",3,3,1996,5227,20140415,277000,1797
+"1245 S Maple Rd APT 208, Ann Arbor, MI Real Estate",1,1,1959,,20140414,73000,927
+"307 Pauline Blvd, Ann Arbor, MI Real Estate",2,3,1940,9147,20140414,285000,1512
+"765 Sciomeadows Dr, Ann Arbor, MI Real Estate",2.5,4,1983,45738,20140414,424900,2645
+"900 W Huron St, Ann Arbor, MI Real Estate",1,2,1923,4095,20140411,230000,1100
+"804 Gott St, Ann Arbor, MI Real Estate",1.5,3,1927,5270,20140411,389500,1506
+"2222 Faye Dr, Ann Arbor, MI Real Estate",1.5,3,1963,7187,20140411,190100,1292
+"4422 Chris Ln, Ann Arbor, MI Real Estate",2.5,4,1998,22215.6,20140411,330000,2195
+"434 Evergreen Dr, Ann Arbor, MI Real Estate",1,3,1930,8276,20140411,230000,1192
+"417 S Ashley St, Ann Arbor, MI Real Estate",2.5,2,2002,,20140411,524500,1739
+"129 Grandview Dr, Ann Arbor, MI Real Estate",1.5,3,1938,11325.6,20140411,370000,1728
+"1136 Mixtwood St, Ann Arbor, MI Real Estate",2,3,1958,13068,20140411,375000,1637
+"2304 Walter Dr, Ann Arbor, MI Real Estate",1,3,1959,7492,20140411,150000,1024
+"459 S Zeeb Rd, Ann Arbor, MI Real Estate",,,,,20140410,292155,
+"230 Brookridge Ct, Ann Arbor, MI Real Estate",2,4,1998,12196.8,20140410,1050000,1232
+"220 Brookridge Ct, Ann Arbor, MI Real Estate",2,4,1998,8233,20140410,1050000,1232
+"210 Brookridge Ct, Ann Arbor, MI Real Estate",2,Studio,1999,7928,20140410,1050000,7392
